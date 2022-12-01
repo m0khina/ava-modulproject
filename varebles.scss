@@ -1,0 +1,38 @@
+@mixin  between{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@mixin btn{
+  background: #0057FF;
+  border-radius: 30px;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  border: none;
+  font-family: $family;
+  padding: 12px 35px;
+  font-weight: 400;
+}
+@mixin blueTitle{
+  font-weight: 400;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #0057FF;
+  line-height: 22px;
+  cursor: progress;
+}
+@mixin title{
+  text-align: center;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: $cl;
+}
+$cl:#000000;
+$family: 'Oswald',sans-serif;

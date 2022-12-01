@@ -1,0 +1,163 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+body{
+  background: #FFFFFF;
+  font-family: 'Oswald',sans-serif;
+}
+a{
+  text-decoration: none;
+}
+#chek{
+  display: none;
+}
+.inputs{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.inputs h2{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.title h3{
+  padding: 13px 0 0 0;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 26px;
+  color: #000000;
+  height: 0;
+  overflow: hidden;
+  font-family: 'Roboto',sans-serif;
+}
+.minus{
+  display: none;
+}
+#chek:checked~.title h3{
+  height: 60px;
+  overflow: visible;
+}
+#chek:checked~.plus{
+  display: none;
+}
+#chek:checked~.minus{
+  display: block;
+}
+.inputs ion-icon{
+  color: #0057FF;
+  font-size: 25px;
+}
+#chek2{
+  display: none;
+}
+#chek3{
+  display: none;
+}
+#chek2:checked~.title h3{
+  height: 40px;
+  overflow: visible;
+}
+#chek3:checked~.title h3{
+  height: 90px;
+  overflow: visible;
+}
+#chek4{
+  display: none;
+}
+#chek4:checked~.title h3{
+  height: 40px;
+  overflow: visible;
+}
+.accordeon{
+  cursor: help;
+  margin: 35px 0 35px 30px;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.slide1{
+  background: #FFFFFF;
+  border: 1px solid #E7E7E7;
+  border-radius: 10px;
+  height: 380px;
+}
+.slide1 img{
+  width: 100px;
+  height: 100px;
+}
+.slide1 h2{
+  padding: 20px 0 10px 0;
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: $cl;
+}
+.slide1 h3{
+  font-weight: 400;
+  font-size: 13px;
+  text-align: center;
+  text-transform: uppercase;
+  color: $cl;
+  padding-bottom: 15px;
+}
+.slide1 p{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  color: $cl;
+  padding: 30px 20px 10px 20px;
+}
+.slide1 ion-icon{
+  color: orange;
+}
+button{
+  transition: 1s;
+}
+button:hover{
+  transform: scale(1.3,1.3);
+}
+@keyframes circleKey {
+  from{
+    transform: rotate(0);
+  }
+  to{
+    transform: rotate(360deg);
+  }
+}

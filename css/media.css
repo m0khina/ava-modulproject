@@ -1,0 +1,1257 @@
+@media (max-width: 1200px) {
+  #news .news--groups__group2 img {
+    width: 500px;
+  }
+  #news .news--groups__group1--blok1 img {
+    width: 200px;
+  }
+  #news .news--groups__group1--blok1 {
+    margin: 40px 0;
+    width: 504px;
+    height: 205px;
+  }
+  #news .news--groups__group2 {
+    height: 456px;
+    width: 539px;
+  }
+  #team .team--grey {
+    margin-left: 320px;
+  }
+  #header .header--menu {
+    margin-right: 221px;
+  }
+}
+@media (max-width: 1140px) {
+  #news .news--groups__group2 img {
+    width: 480px;
+  }
+  #news .news--groups__group2 {
+    height: 439px;
+  }
+  #news .news--groups__group2--title h1 {
+    font-size: 36px;
+  }
+  #news .news--groups__group1--blok1__title p {
+    font-size: 12px;
+  }
+  #news .news--groups__group1--blok1__title h2 {
+    font-size: 15px;
+  }
+  #business .business--orange {
+    margin-left: 839px;
+  }
+  #hero .hero--group2__img2 {
+    width: 250px;
+    margin-left: 108px;
+    margin-top: 130px;
+  }
+  #us .us--group1 p {
+    font-size: 13px;
+    line-height: 24px;
+    padding: 35px 0;
+  }
+  #us .us--group2 p {
+    font-size: 14px;
+  }
+  #market .market--group1 h1 {
+    font-size: 37px;
+  }
+  #news .news--groups__group1--blok1 {
+    width: 487px;
+    height: 197px;
+  }
+  #news .news--groups__group2 {
+    width: 510px;
+  }
+  #us .us--group1__block h2 {
+    font-size: 22px;
+  }
+}
+@media (max-width: 1024px) {
+  #header .header--menu {
+    margin-right: 0;
+  }
+  #hero .hero--group1 h1 {
+    padding-bottom: 17px;
+    font-size: 36px;
+    line-height: 56px;
+  }
+  #hero .hero--group1 p {
+    font-size: 13px;
+    line-height: 24px;
+  }
+  #hero .hero--group1__samanta {
+    padding: 20px 0 35px 0;
+    width: 58%;
+  }
+  #hero .hero--group2__img1 {
+    width: 450px;
+    margin-left: -350px;
+  }
+  #hero .hero--group2__img2 {
+    width: 177px;
+    margin-left: -62px;
+    margin-top: 99px;
+  }
+  #business .business--orange {
+    position: absolute;
+    margin-left: 680px;
+    margin-top: -46px;
+  }
+  #business .business p {
+    font-size: 13px;
+    padding: 25px 0;
+  }
+  #business .business h1 {
+    font-size: 30px;
+  }
+  #us .us--group1 h1 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+  #us .us--group1 p {
+    font-size: 12px;
+    line-height: 20px;
+    padding: 23px 0;
+  }
+  #us .us--group1__block h4 {
+    font-size: 12px;
+    line-height: 22px;
+    padding: 11px 0 18px 0;
+  }
+  #us .us--group2 h2 {
+    padding: 27px 0 8px 0;
+    font-size: 26px;
+  }
+  #us .us--group2__img {
+    width: 460px;
+  }
+  #us .us--group2 p {
+    padding: 0;
+    font-size: 13px;
+    line-height: 22px;
+  }
+  #us .us--group2__info input {
+    padding: 17px 1px 17px 8px;
+    font-size: 13px;
+  }
+  #us .us--group2__subject textarea {
+    width: 360px;
+    margin: 20px 26px;
+  }
+  #us .us--group2 button {
+    padding: 12px 150px;
+    font-size: 12px;
+  }
+  #us .us--group2__green {
+    width: 178px;
+  }
+  #us .us--group2 {
+    height: 750px;
+    width: 460px;
+  }
+  #world .world--title h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #world .world--title p {
+    padding: 30px 0;
+    font-size: 13px;
+    line-height: 22px;
+  }
+  .inputs h2 {
+    font-size: 14px;
+  }
+  .accordeon {
+    margin: 15px 0 15px 20px;
+  }
+  #world .world img {
+    width: 430px;
+  }
+  #market .market--group1 h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #market .market--group1 p {
+    padding: 20px 0 5px 0;
+    font-size: 12px;
+  }
+  #market .market--group1__research {
+    padding: 33px 0 8px 0;
+  }
+  #market .market--group2 img {
+    width: 440px;
+  }
+  #market .market--group2 {
+    height: 681px;
+  }
+  #team .team p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+  #logos .logos img {
+    width: 100px;
+  }
+  #logos .logos--line {
+    margin: 25px 0;
+  }
+  #news .news h1 {
+    padding: 5px 0 10px 0;
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #news .news--groups__group1--blok1 img {
+    width: 180px;
+  }
+  #news .news--groups__group1--blok1 {
+    width: 431px;
+    height: 181px;
+    margin: 35px 0;
+  }
+  #news .news--groups__group2 {
+    height: 402px;
+    width: 450px;
+  }
+  #news .news--groups__group2 img {
+    width: 420px;
+  }
+  #team .team--grey {
+    margin-left: 241px;
+    margin-top: 30px;
+    width: 439px;
+  }
+  .slide1 {
+    height: 430px;
+  }
+}
+@media (max-width: 992px) {
+  #world .world img {
+    width: 420px;
+  }
+  #hero .hero--group2__img2 {
+    margin-left: -65px;
+  }
+}
+@media (max-width: 768px) {
+  #header .header button {
+    padding: 8px 20px;
+    font-size: 11px;
+  }
+  #header .header--menu a {
+    font-size: 11px;
+  }
+  #hero .hero {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 0;
+  }
+  #business .business--img {
+    width: 690px;
+  }
+  #business .business--orange {
+    margin-left: 542px;
+    margin-top: -47px;
+    width: 150px;
+  }
+  #world .world {
+    display: flex;
+    flex-direction: column;
+  }
+  #market .market {
+    display: flex;
+    flex-direction: column;
+  }
+  #news .news--groups {
+    display: flex;
+    flex-direction: column;
+  }
+  #hero .hero--group1 h1 {
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+  }
+  #hero .hero--group1 p {
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+  }
+  #hero .hero--group1__samanta--coment h2 {
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 35px;
+  }
+  #hero .hero--group1__samanta {
+    margin-left: 80px;
+  }
+  #hero .hero--group1 button {
+    margin-left: 150px;
+  }
+  #hero .hero--group2__img1 {
+    width: 500px;
+    margin-left: 0;
+  }
+  #hero .hero--group2__img2 {
+    width: 221px;
+    margin-left: 351px;
+    margin-top: 107px;
+  }
+  #business .business h1 {
+    font-size: 40px;
+  }
+  #business .business p {
+    font-size: 16px;
+  }
+  #us .us {
+    display: flex;
+    flex-direction: column;
+  }
+  #us .us--group1 {
+    padding: 0 0 140px 0;
+  }
+  #us .us--img1 {
+    position: absolute;
+    z-index: 1;
+    width: 100px;
+    margin-left: -267px;
+    margin-top: -88px;
+  }
+  #us .us--group1 h1 {
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+  }
+  #us .us--group1 p {
+    font-size: 15px;
+    line-height: 26px;
+    padding: 28px 0;
+    text-align: center;
+  }
+  #us .us--group1__block h4 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  #us .us--group2__green {
+    margin-left: -82px;
+  }
+  #us .us--group2 {
+    width: 500px;
+  }
+  #us .us--group2__img {
+    width: 500px;
+  }
+  #us .us--group2__info input {
+    padding: 17px 1px 18px 32px;
+    font-size: 14px;
+  }
+  #us .us--group2__subject textarea {
+    width: 400px;
+  }
+  #us .us--group2 button {
+    padding: 12px 175px;
+  }
+  #world .world img {
+    width: 430px;
+    margin-top: -70px;
+    padding: 0 0 130px 0;
+  }
+  #world .world--title h1 {
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+  }
+  #world .world--title p {
+    padding: 30px 0;
+    font-size: 15px;
+    line-height: 26px;
+  }
+  #market .market--group1 h1 {
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+  }
+  #market .market--group1 p {
+    padding: 20px 0 5px 0;
+    font-size: 14px;
+    text-align: center;
+  }
+  #market .market--group1 {
+    padding: 0 0 130px 0;
+  }
+  #market .market--group2 img {
+    width: 500px;
+  }
+  #market .market--group2 {
+    height: 700px;
+  }
+  #team .team--grey {
+    margin-left: 127px;
+  }
+  #news .news h1 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  #news .news--groups__group1--blok1 img {
+    width: 221px;
+  }
+  #news .news--groups__group1--blok1 {
+    width: 505px;
+    height: 205px;
+  }
+  #news .news--groups__group2 {
+    height: 430px;
+    width: 510px;
+  }
+  #news .news--groups__group2 img {
+    width: 473px;
+  }
+  #news .news h1 {
+    font-size: 34px;
+    line-height: 44px;
+  }
+  #footer .footer--block2__ssilka a {
+    margin-right: 0;
+  }
+  #footer .footer--block2__ssilka {
+    width: 80%;
+  }
+  #footer .footer--block1__title {
+    width: 130%;
+  }
+}
+@media (max-width: 576px) {
+  #business .business--img {
+    width: 519px;
+  }
+  #business .business--orange {
+    margin-left: 395px;
+    margin-top: -40px;
+    width: 117px;
+  }
+  #business .business p {
+    font-size: 12px;
+  }
+  #us .us--group1 h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #business .business h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #us .us--group2__green {
+    width: 139px;
+    margin-left: -136px;
+  }
+  #hero .hero--group2__img1 {
+    width: 400px;
+  }
+  #hero .hero--group2__img2 {
+    width: 170px;
+    margin-left: 272px;
+    margin-top: 88px;
+  }
+  #world .world img {
+    width: 400px;
+    padding: 0;
+  }
+  #world .world--title {
+    padding: 110px 0 0 0;
+  }
+  #header .header--menu {
+    width: 42%;
+  }
+  #world .world--title h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #world .world--title p {
+    padding: 24px 0;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+  }
+  #market .market--group1 h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  #team .team p {
+    font-size: 15px;
+    line-height: 26px;
+  }
+  #team .team--grey {
+    margin-top: 54px;
+    width: 400px;
+    margin-left: 58px;
+  }
+  #logos .logos img {
+    width: 70px;
+  }
+  #footer .footer--block1__title h2 {
+    font-size: 10px;
+  }
+  #footer .footer--block1__title h3 {
+    font-size: 10px;
+    margin: 0 -10px;
+  }
+  #footer .footer--block2__icons {
+    margin-left: 200px;
+    width: 45%;
+    margin-top: 40px;
+    padding: 10px;
+  }
+  #footer .footer--block2__ssilka {
+    width: 70%;
+    margin-left: 100px;
+  }
+  #footer .footer--block2__ssilka a {
+    font-size: 8px;
+  }
+  #footer .footer--block1__title h2 {
+    font-size: 8px;
+  }
+  #footer .footer--block1__title h3 {
+    font-size: 8px;
+  }
+  #footer .footer--block1__title {
+    margin-top: -30px;
+  }
+}
+@media (max-width: 450px) {
+  #header .header--menu {
+    display: none;
+  }
+  #header .header button {
+    padding: 5px 20px;
+    font-size: 10px;
+    margin-right: 140px;
+  }
+  #header .header img {
+    width: 67px;
+  }
+  #market .market--group1__line2 {
+    width: 315px;
+  }
+  #market .market--group1__line4 {
+    width: 237px;
+  }
+  #market .market--group1__line3 {
+    width: 150px;
+  }
+  .title h3 {
+    padding: 12px 0 0 0;
+    font-size: 11px;
+    line-height: 22px;
+  }
+  #hero .hero--group1 h1 {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  #hero .hero--group1 p {
+    font-size: 11px;
+    line-height: 22px;
+  }
+  #hero .hero--group1__samanta--coment h2 {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  #hero .hero--group1__samanta img {
+    width: 50px;
+  }
+  #hero .hero--group1__samanta {
+    width: 50%;
+    padding: 16px 0;
+  }
+  #hero .hero--group1 button {
+    padding: 5px 30px;
+    font-size: 9px;
+    margin-left: 110px;
+  }
+  #hero .hero--group2__img1 {
+    width: 290px;
+  }
+  #hero .hero--group2__img2 {
+    width: 120px;
+    margin-left: 205px;
+    margin-top: 66px;
+  }
+  #business .business h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  #business .business p {
+    font-size: 9px;
+    padding: 10px 0;
+    line-height: 20px;
+  }
+  #business .business h3 {
+    padding: 3px 0;
+    font-size: 9px;
+  }
+  #business .business--img {
+    width: 410px;
+  }
+  #business .business--orange {
+    margin-left: 322px;
+    margin-top: -25px;
+    width: 83px;
+  }
+  #us .us--group1 h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  #us .us--group1 p {
+    font-size: 10px;
+    line-height: 20px;
+    padding: 11px 0;
+  }
+  #us .us--group1__block h2 {
+    font-size: 13px;
+    padding-top: 15px;
+  }
+  #us .us--group1__block h4 {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  #us .us--group1__block--svg1 button {
+    font-size: 11px;
+    padding: 5px 30px;
+  }
+  #us .us--group1 {
+    padding: 0 0 100px 0;
+  }
+  #business .business {
+    padding: 10px 0;
+  }
+  #us h3 {
+    font-size: 10px;
+    padding: 18px 0 105px 0;
+  }
+  #us .us--group2__img {
+    width: 350px;
+  }
+  #us .us--group2 {
+    width: 350px;
+  }
+  #us .us--group2 h2 {
+    padding: 13px 0 6px 0;
+    font-size: 18px;
+  }
+  #us .us--group2 p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  #us .us--group2__info input {
+    padding: 13px 3px 13px 8px;
+    font-size: 11px;
+  }
+  #us .us--group2__subject textarea {
+    width: 290px;
+    margin: 12px 16px;
+    font-size: 11px;
+    padding: 14px;
+  }
+  #us .us--group2 button {
+    padding: 9px 120px;
+    font-size: 11px;
+    margin: 20px 15px;
+  }
+  #us .us--group2 {
+    height: 613px;
+  }
+  #us .us--group2__green {
+    width: 114px;
+    margin-left: -89px;
+    margin-top: -100px;
+  }
+  #world .world img {
+    width: 360px;
+  }
+  #world .world--title h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  #world .world--title p {
+    padding: 15px 0;
+    font-size: 10px;
+    line-height: 20px;
+  }
+  .inputs h2 {
+    font-size: 12px;
+  }
+  #world .world img {
+    width: 360px;
+    margin-top: -77px;
+    padding: 0 0 104px 0;
+  }
+  #market .market--group1 h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  #market .market--group1 p {
+    padding: 17px 0 1px 0;
+    font-size: 11px;
+    text-align: center;
+  }
+  #market .market--group1__research h2 {
+    font-weight: 400;
+    font-size: 15px;
+  }
+  #market .market--group1__research {
+    padding: 32px 0 7px 0;
+  }
+  #market .market--group2 img {
+    width: 350px;
+  }
+  #market .market--group2 h1 {
+    padding: 18px 0 8px 0;
+    font-size: 25px;
+    line-height: 40px;
+  }
+  #market .market--group2 a {
+    margin: 13px 0 13px 120px;
+    font-size: 10px;
+    line-height: 20px;
+  }
+  #market .market--group2 button {
+    font-size: 12px;
+    padding: 9px 35px;
+    margin: 24px 0;
+  }
+  #market .market--group2 {
+    height: 559px;
+  }
+  #team .team p {
+    font-size: 12px;
+    line-height: 24px;
+  }
+  #team .team h3 {
+    padding: 70px 0 15px 0;
+    font-size: 10px;
+  }
+  #team .team button {
+    margin: 28px 0;
+    font-size: 12px;
+    padding: 9px 35px;
+  }
+  #team .team--grey {
+    margin-top: -17px;
+    width: 324px;
+    margin-left: 35px;
+  }
+  #logos .logos img {
+    width: 55px;
+  }
+  #logos .logos--line {
+    margin: 20px 0;
+  }
+  #news .news h1 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  #news .news h3 {
+    font-weight: 400;
+    font-size: 10px;
+  }
+  #news .news--groups__group1--blok1 img {
+    width: 168px;
+  }
+  #news .news--groups__group1--blok1__title h2 {
+    font-size: 12px;
+    line-height: 20px;
+    padding: 1px 0 5px 0;
+  }
+  #news .news--groups__group1--blok1__title p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #news .news--groups__group1--blok1 {
+    width: 375px;
+    height: 152px;
+  }
+  #news .news--groups__group2 img {
+    width: 350px;
+    margin-top: 15px;
+  }
+  #news .news--groups__group2 {
+    height: 320px;
+    width: 378px;
+  }
+  #news .news h1 {
+    font-size: 20px;
+    line-height: 26px;
+  }
+  #news .news--groups__group2--title {
+    margin-top: -100px;
+  }
+  #footer .footer--block2__icons {
+    margin-left: 91px;
+    width: 65%;
+    margin-top: 21px;
+    padding: 10px;
+  }
+  #footer .footer--block2__icons a {
+    width: 14px;
+    height: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #footer .footer--block2__ssilka {
+    width: 80%;
+    margin-left: 49px;
+  }
+  #footer .footer img {
+    width: 80px;
+  }
+}
+@media (max-width: 414px) {
+  #business .business--orange {
+    margin-left: 269px;
+  }
+  #business .business--img {
+    width: 352px;
+  }
+  #us .us--group2__green {
+    width: 118px;
+    margin-left: -116px;
+  }
+  #team .team--grey {
+    margin-top: 33px;
+    width: 288px;
+  }
+  #header .header button {
+    margin-right: 120px;
+  }
+}
+@media (max-width: 400px) {
+  #business .business--orange {
+    margin-left: 272px;
+  }
+}
+@media (max-width: 390px) {
+  #business .business p {
+    padding: 6px 0;
+    line-height: 16px;
+    width: 280px;
+    text-align: center;
+    margin-left: 37px;
+  }
+  #header .header button {
+    padding: 4px 17px;
+    font-size: 9px;
+    margin-right: 115px;
+  }
+  #header .header img {
+    width: 52px;
+  }
+  #hero .hero--group2__img2 {
+    margin-left: 188px;
+  }
+  .star ion-icon {
+    font-size: 7px;
+  }
+  .slide1 {
+    height: 311px;
+  }
+  .slide1 {
+    height: 311px;
+  }
+  #market .market--group1 {
+    padding: 0 0 104px 0;
+  }
+  .slide1 p {
+    font-size: 9px;
+    line-height: 16px;
+    padding: 13px 5px 10px 5px;
+  }
+  .slide1 h2 {
+    padding: 16px 0 8px 0;
+    font-size: 11px;
+  }
+  .slide1 h3 {
+    font-size: 9px;
+    padding-bottom: 2px;
+  }
+  .slide1 img {
+    width: 48px;
+    height: 48px;
+  }
+  #hero .img {
+    margin-top: -30px;
+    width: 35px;
+  }
+  #business .business h1 {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  #business .business--orange {
+    margin-left: 264px;
+    width: 74px;
+  }
+  #us h3 {
+    font-size: 9px;
+    padding: 14px 0 30px 0;
+  }
+  #us .us--group1 h1 {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  #hero .hero--group1 p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #hero .hero--group1 h1 {
+    font-size: 21px;
+    line-height: 30px;
+    padding-bottom: 8px;
+  }
+  #hero .hero--group1__samanta--coment h2 {
+    font-size: 10px;
+    line-height: 11px;
+  }
+  #hero .hero--group1__samanta--coment__star ion-icon {
+    font-size: 11px;
+  }
+  #hero .hero--group1__samanta {
+    width: 40%;
+    padding: 5px 0;
+  }
+  #hero .hero--group1__samanta img {
+    width: 40px;
+  }
+  #hero .hero--group1 button {
+    padding: 3px 20px;
+    font-size: 9px;
+    margin-left: 104px;
+  }
+  #hero .hero--group2__img1 {
+    width: 266px;
+  }
+  #hero .hero--group2__img2 {
+    width: 111px;
+    margin-left: 179px;
+  }
+  #business .business p {
+    padding: 7px 0;
+    line-height: 15px;
+    margin-left: 6px;
+  }
+  #us .us--group1 p {
+    font-size: 10px;
+    line-height: 18px;
+    padding: 9px 0;
+  }
+  #us .us--group1__block h4 {
+    font-size: 10px;
+    line-height: 18px;
+    padding: 6px 0 10px 0;
+  }
+  #us .us--group1__block--svg1 button {
+    font-size: 10px;
+    padding: 4px 30px;
+  }
+  #us .us--group1__block h2 {
+    font-size: 11px;
+    padding-top: 8px;
+  }
+  #us .us--group2__img {
+    width: 300px;
+  }
+  #us .us--group2 {
+    width: 300px;
+    height: 530px;
+  }
+  #us .us--group2 h2 {
+    padding: 13px 0 3px 0;
+    font-size: 15px;
+  }
+  #us .us--group2 p {
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #us .us--group2__info input {
+    padding: 13px 0 13px 8px;
+    font-size: 10px;
+  }
+  #us .us--group2__subject textarea {
+    width: 254px;
+    margin: 9px 13px;
+    font-size: 10px;
+    padding: 10px;
+  }
+  #us .us--group2 button {
+    padding: 6px 103px;
+    font-size: 9px;
+    margin: 19px 13px;
+  }
+  #world .world img {
+    width: 299px;
+    margin-top: -102px;
+    padding: 0 0 70px 0;
+  }
+  #world .world--title h1 {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  #world .world--title p {
+    padding: 9px 0;
+    line-height: 18px;
+  }
+  .inputs {
+    width: 95%;
+  }
+  .inputs h2 {
+    font-size: 10px;
+  }
+  .title h3 {
+    padding: 2px 0 0 0;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 18px;
+  }
+  #market {
+    padding: 100px 0;
+  }
+  #market .market--group1 h1 {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  #market .market--group1 p {
+    padding: 10px 0 0 0;
+    font-size: 9px;
+    line-height: 18px;
+  }
+  #market .market--group1__research h2 {
+    font-weight: 400;
+    font-size: 12px;
+  }
+  #market .market--group1__line2 {
+    width: 249px;
+  }
+  #market .market--group1__line3 {
+    width: 155px;
+  }
+  #market .market--group1__research {
+    padding: 25px 0 5px 0;
+  }
+  #market .market--group2 img {
+    width: 300px;
+  }
+  #market .market--group2 h1 {
+    padding: 11px 0 4px 0;
+    font-size: 20px;
+    line-height: 35px;
+  }
+  #market .market--group2 a {
+    margin: 10px 0 9px 60px;
+    font-size: 10px;
+    line-height: 20px;
+  }
+  #market .market--group2 button {
+    font-size: 10px;
+    padding: 5px 30px;
+    margin: 11px 0;
+  }
+  #market .market--group2 {
+    height: 460px;
+  }
+  #team .team h3 {
+    padding: 50px 0 10px 0;
+  }
+  #team .team p {
+    font-size: 10px;
+    line-height: 20px;
+  }
+  #team .team button {
+    margin: 21px 0;
+    font-size: 10px;
+    padding: 5px 30px;
+  }
+  #team .team--grey {
+    width: 260px;
+    margin-top: 0;
+  }
+  #logos .logos img {
+    width: 44px;
+  }
+  #logos .logos--line {
+    margin: 10px 0;
+  }
+  #news .news--img {
+    width: 63px;
+    margin-top: -37px;
+    margin-left: -1px;
+  }
+  #news .news h1 {
+    font-size: 15px;
+    line-height: 22px;
+  }
+  #news {
+    padding: 38px 0 45px 0;
+  }
+  #news .news--groups__group1--blok1 img {
+    width: 135px;
+  }
+  #news .news--groups__group1--blok1 {
+    width: 340px;
+    height: 126px;
+    margin: 20px 0;
+  }
+  #news .news--groups__group1--blok1__title h2 {
+    font-size: 11px;
+    line-height: 20px;
+    padding: 1px 0 1px 0;
+  }
+  #news .news--groups__group1--blok1__title p {
+    font-size: 9px;
+    line-height: 14px;
+  }
+  #news .news h3 {
+    font-size: 9px;
+  }
+  #news .news--groups__group2 {
+    height: 289px;
+    width: 345px;
+  }
+  #news .news--groups__group2 img {
+    width: 323px;
+    margin-top: 13px;
+  }
+  #footer .footer--block2__icons {
+    margin-left: 78px;
+    margin-top: 9px;
+    padding: 10px;
+  }
+  #footer .footer--block2__icons a {
+    width: 12px;
+    height: 12px;
+    font-size: 14px;
+  }
+  #footer .footer--block2__ssilka a {
+    font-size: 5px;
+  }
+  #footer .footer img {
+    width: 47px;
+  }
+  #footer .footer--block1__title h2 {
+    font-size: 4px;
+  }
+  #footer .footer--block1__title h3 {
+    font-size: 4px;
+  }
+  #footer .footer--block1__title {
+    width: 150%;
+    margin-top: -50px;
+  }
+  #footer {
+    padding: 10px 0;
+  }
+}
+@media (max-width: 360px) {
+  #team .team--grey {
+    width: 250px;
+  }
+  #hero .hero--group2__img2 {
+    margin-left: 171px;
+  }
+  #business .business--img {
+    width: 319px;
+  }
+  #business .business--orange {
+    margin-left: 240px;
+  }
+  #header .header button {
+    padding: 3px 15px;
+    font-size: 9px;
+    margin-right: 105px;
+  }
+}
+@media (max-width: 320px) {
+  #header .header button {
+    margin-right: 85px;
+  }
+  #hero .hero--group1 p {
+    font-size: 9px;
+  }
+  #hero .hero--group1__samanta {
+    width: 44%;
+  }
+  #hero .hero--group1 button {
+    margin-left: 92px;
+  }
+  #hero .hero--group2__img1 {
+    width: 253px;
+  }
+  #hero .hero--group2__img2 {
+    margin-left: 155px;
+    margin-top: 52px;
+    width: 104px;
+  }
+  #business .business--img {
+    width: 297px;
+  }
+  #business .business--orange {
+    margin-left: 224px;
+    width: 65px;
+  }
+  #us .us--group1 p {
+    font-size: 9px;
+  }
+  #us .us--group1__block h4 {
+    font-size: 9px;
+    line-height: 16px;
+  }
+  #us .us--group2__green {
+    width: 92px;
+    margin-left: -105px;
+    margin-top: -88px;
+  }
+  #team .team--grey {
+    width: 248px;
+  }
+  #world .world img {
+    width: 260px;
+  }
+  #world .world--title p {
+    font-size: 9px;
+    line-height: 16px;
+  }
+  #team .team p {
+    width: 70%;
+    margin-left: 40px;
+  }
+  #team .team--grey {
+    margin-left: 5px;
+  }
+  #team {
+    padding: 16px 0;
+  }
+  #news .news--groups__group1--blok1 img {
+    width: 110px;
+  }
+  #news .news--groups__group1--blok1 {
+    width: 297px;
+    height: 101px;
+    margin: 16px 0;
+  }
+  #news .news--groups__group2 img {
+    width: 285px;
+    margin-top: 13px;
+  }
+  #news .news--groups__group2 {
+    height: 260px;
+    width: 300px;
+  }
+  #footer .footer--block2__icons {
+    margin-left: 45px;
+    padding: 6px 0;
+  }
+  #market .market--group1__line2 {
+    width: 220px;
+  }
+  #market .market--group1__line4 {
+    width: 200px;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
