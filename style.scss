@@ -429,6 +429,7 @@
       margin-top: -60px;
       margin-left: -40px;
       animation: 3s circleKey infinite linear;
+      z-index: 1;
     }
     h3{
       @include blueTitle;

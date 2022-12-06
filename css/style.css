@@ -191,6 +191,47 @@ button:hover {
     transform: rotate(360deg);
   }
 }
+.burgerLine {
+  width: 25px;
+  border: 1px solid #000000;
+  margin: 5px 0;
+}
+
+#chekked {
+  display: none;
+}
+
+.label {
+  position: absolute;
+  margin-left: 390px;
+  margin-top: -45px;
+}
+
+.burgerMenu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.burgerMenu a {
+  font-weight: 400;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 6px 0;
+  opacity: 0;
+  height: 0;
+}
+
+#chekked:checked ~ .burgerMenu a {
+  opacity: 1;
+  height: 100%;
+}
+
+#burger {
+  display: none;
+}
+
 #header .header {
   padding: 20px 0;
   display: flex;
@@ -710,6 +751,7 @@ button:hover {
   margin-top: -60px;
   margin-left: -40px;
   animation: 3s circleKey infinite linear;
+  z-index: 1;
 }
 #news .news h3 {
   font-weight: 400;

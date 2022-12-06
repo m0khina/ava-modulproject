@@ -233,6 +233,9 @@
   }
 }
 @media (max-width: 768px) {
+  .swiper {
+    zoom: 90%;
+  }
   #header .header button {
     padding: 8px 20px;
     font-size: 11px;
@@ -419,6 +422,22 @@
   }
 }
 @media (max-width: 576px) {
+  .swiper {
+    zoom: 61%;
+  }
+  .label {
+    margin-left: 510px;
+    margin-top: -48px;
+  }
+  #header .header button {
+    margin-right: 180px;
+  }
+  #header .header--menu {
+    display: none;
+  }
+  #burger {
+    display: block;
+  }
   #business .business--img {
     width: 519px;
   }
@@ -517,8 +536,12 @@
   }
 }
 @media (max-width: 450px) {
-  #header .header--menu {
-    display: none;
+  .label {
+    margin-left: 390px;
+    margin-top: -48px;
+  }
+  #news .news--img {
+    margin-left: 0;
   }
   #header .header button {
     padding: 5px 20px;
@@ -553,6 +576,9 @@
   #hero .hero--group1__samanta--coment h2 {
     font-size: 12px;
     line-height: 20px;
+  }
+  .swiper {
+    zoom: 48%;
   }
   #hero .hero--group1__samanta img {
     width: 50px;
@@ -805,6 +831,10 @@
   }
 }
 @media (max-width: 414px) {
+  .label {
+    margin-left: 360px;
+    margin-top: -48px;
+  }
   #business .business--orange {
     margin-left: 269px;
   }
@@ -827,14 +857,27 @@
   #business .business--orange {
     margin-left: 272px;
   }
+  .label {
+    margin-left: 351px;
+  }
 }
 @media (max-width: 390px) {
+  .label {
+    margin-left: 341px;
+    margin-top: -45px;
+  }
+  .burgerLine {
+    width: 15px;
+  }
   #business .business p {
     padding: 6px 0;
     line-height: 16px;
     width: 280px;
     text-align: center;
     margin-left: 37px;
+  }
+  .swiper {
+    zoom: 82%;
   }
   #header .header button {
     padding: 4px 17px;
@@ -851,10 +894,7 @@
     font-size: 7px;
   }
   .slide1 {
-    height: 311px;
-  }
-  .slide1 {
-    height: 311px;
+    height: 276px;
   }
   #market .market--group1 {
     padding: 0 0 104px 0;
@@ -1148,11 +1188,18 @@
   }
 }
 @media (max-width: 360px) {
+  .label {
+    margin-left: 315px;
+    margin-top: -45px;
+  }
   #team .team--grey {
     width: 250px;
   }
   #hero .hero--group2__img2 {
     margin-left: 171px;
+  }
+  .swiper {
+    zoom: 74%;
   }
   #business .business--img {
     width: 319px;
@@ -1167,8 +1214,14 @@
   }
 }
 @media (max-width: 320px) {
+  .label {
+    margin-left: 281px;
+  }
   #header .header button {
     margin-right: 85px;
+  }
+  .swiper {
+    zoom: 60%;
   }
   #hero .hero--group1 p {
     font-size: 9px;
